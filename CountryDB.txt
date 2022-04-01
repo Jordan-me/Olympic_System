@@ -1,0 +1,13 @@
+Afghanistan;Albania;Algeria;Andorra;Angola;Antigua and Barbuda;Argentina;Armenia;Australia;Austria;Azerbaijan
+Bahamas;Bahrain;Bangladesh;Belarus;Belgium;Belize;Benin;Bermuda;Bhutan;Bolivia;Bosnia and Herzegovina;Botswana;Brazil;British virgin Islands;Brunei;Bulgaria;Burkina Faso;Burundi
+Cambodia;Cameroon;Canada;Cape Verde;Cayman Islands;Central African Republic;Chile;China;Chinese Taipei;Colombia;Costa Rica;Croatia;Cuba;Cyprus;Czech Republic
+Denmark;Djibouti;Dominica;Dominican Republic
+Ecuador;Egypt;El Salvador;Estonia;Ethiopia
+Federated States of Micronesia;Fiji;Finland;France
+Gabon;Georgia;Germany;Ghana;Great Britain;Greece;Grenada;Guatemala
+Haiti;Honduras;Hong kong;Hungary
+Iceland;India;Indonesia;Iran;Iraq;Ireland;Israel;Italy
+Jamaica;Japan;Jordan
+Kazakhstan;Kenya;Korea;Kosovo;Kuwait
+Latvia;Lebanon;Lesotho;Liechtenstein;Luxembourg
+Macau;Madagascar;Malawi;Malaysia;Maldives;Mali;Malta;Mexico;Moldova;Montenegro;Morocco;Myanmar

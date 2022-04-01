@@ -1,0 +1,107 @@
+Afghanistan<JUDGE>;Muhamad<RUNNING>,Sefi<BOTH>
+Afghanistan<ATHLET>;Zohib Islam Amiri<RUNNING>,Djelaludin Sharityar<BOTH>,Mustafa Hadid<HIGHJUMP>,Ahmad Hatifi<RUNNING>,Faysal Shayesteh<BOTH>,Abassin Alikhil<RUNNING>
+Albania<ATHLET>;Thomas Strakosha<RUNNING>,Gentian Selmani<BOTH>,Jon Mersinaj<HIGHJUMP>,Elseid Hysaj<RUNNING>,Ardian Ismajli<BOTH>,Naser Aliji<RUNNING>
+Algeria<ATHLET>;Azzedine Doukha<RUNNING>,Alexandre Oukidja<BOTH>,Rais M'Bolhi<HIGHJUMP>
+Andorra<ATHLET>;Josep Gomes<RUNNING>,Iker Alvarez de Eulate<BOTH>,Moises San Nicolas<HIGHJUMP>
+Angola<ATHLET>;Hugo Marques<RUNNING>,KadÃº<BOTH>,Antonio<HIGHJUMP>
+Antigua and Barbuda<ATHLET>;Molvin James<RUNNING>,Murphy Parker<BOTH>,Jayden Martin<HIGHJUMP>
+Argentina<JUDGE>;Alehandro<RUNNING>,Nico<BOTH>,Maluma<HIGHJUMP>
+Argentina<ATHLET>;Franco Armani<RUNNING>,Esteban Andrada<BOTH>,Emiliano Marta­nez<HIGHJUMP>
+Armenia<ATHLET>;Arsen Beglaryan<RUNNING>,David Yurchenko<BOTH>,Varazdat Haroyan<HIGHJUMP>
+Australia<ATHLET>;Collis Birmingham<RUNNING>,Luke Adams<BOTH>,Liz Clay<HIGHJUMP>;Brendan Cole<RUNNING>,Nathan Deakes<BOTH>,Martin Dent<HIGHJUMP>
+Austria<JUDGE>;keren<RUNNING>,Luis<BOTH>,Richard<HIGHJUMP>
+Austria<ATHLET>;Tom<RUNNING>,Anthony<BOTH>
+Azerbaijan<ATHLET>;Emil Balayev<RUNNING>,Aydin Bayramov<BOTH>,Shahriyar Aliyev<HIGHJUMP>
+Bahamas<ATHLET>;Savatheda Fynes<RUNNING>,Sloane Farrington<BOTH>,Debbie Ferguson<HIGHJUMP>
+Bahrain<ATHLET>;Sayed Jaffer<RUNNING>,Ahmed Abdulla<BOTH>,Ali Madan<HIGHJUMP>
+Bangladesh<ATHLET>;Tamim Iqbal<RUNNING>,Imrul Kayes<BOTH>,Soumya Sarkar<HIGHJUMP>
+Belarus<ATHLET>;Ekaterina Karsten<RUNNING>,Igor Basinsky<BOTH>,Sergey Lishtvan<HIGHJUMP>
+Belgium<ATHLET>;Simon Mignolet<RUNNING>,Thomas Kaminski<BOTH>,Davy Roef<HIGHJUMP>
+Belize<ATHLET>;Shane Orio<RUNNING>,Ian Gaynair<BOTH>,Elroy Smith<HIGHJUMP>
+Benin<ATHLET>;Fabien Farnolle<RUNNING>,Chaorif Dine Kakpo<BOTH>,Mickael Potao<HIGHJUMP>
+Bermuda<ATHLET>;Dale Eve<RUNNING>,Jahquil Hill<BOTH>,Quinaceo Hunt<HIGHJUMP>,Roger Lee<HIGHJUMP>
+Bhutan<ATHLET>;Ngawang Jamphel<RUNNING>,Kinzang Gyeltshen<BOTH>,Tshering Dendup<HIGHJUMP>,Dubabra Ukhsan<HIGHJUMP>
+Bolivia<ATHLET>;Carlos Lampe<RUNNING>,Ruban Cordano<BOTH>,Jimmy Roca<HIGHJUMP>,Josa Sagredo<HIGHJUMP>
+Bosnia and Herzegovina<ATHLET>;Ibrahim A ehiAi<RUNNING>,Kenan PiriAi<BOTH>,Sead KolaÅ¡inac<HIGHJUMP>,Anel Ahmedhoda‡<HIGHJUMP>
+Botswana<ATHLET>;Mompati Thuma<RUNNING>,Modiri Marumo<BOTH>,Joel Mogorosi<HIGHJUMP>,Ndiapo Letsholathebe<HIGHJUMP>
+Brazil<ATHLET>;Rodrigo Caio<RUNNING>,Felipe<BOTH>,Gabriel Menino<HIGHJUMP>,Casemiro<HIGHJUMP>
+British virgin Islands<ATHLET>;Philip Graham<RUNNING>,Daniel Gilford<BOTH>,Philip Nelson<HIGHJUMP>,Joshua Bertie<HIGHJUMP>
+Brunei<ATHLET>;Azwan Saleh<RUNNING>,Helmi Zambin<BOTH>,Ashraf Haledi<HIGHJUMP>,Wardun Yussof<HIGHJUMP>
+Bulgaria<ATHLET>;Plamen Iliev<RUNNING>,Martin Lukov<BOTH>,Anton Nedyalkov<HIGHJUMP>,Georgi Terziev<HIGHJUMP>
+Burkina Faso<ATHLET>;Steeve Yago<RUNNING>,Issoufou Dayo<BOTH>,Yacouba Coulibaly<HIGHJUMP>,Issa KaborA<HIGHJUMP>
+Burundi<ATHLET>;Jonathan Nahimana<RUNNING>,Justin Ndikumana<BOTH>,Omar Ngandu<HIGHJUMP>,Omar Moussa<RUNNING>
+Cambodia<ATHLET>;JSou Yaty<RUNNING>,Hul Kimhuy<BOTH>,Keo Soksela<HIGHJUMP>,Sath Rosib<RUNNING>
+Cameroon<ATHLET>;Fabrice Ondoa<RUNNING>,Collins Fai<BOTH>,Serge Leuko<HIGHJUMP>,AndrA Onana<RUNNING>
+Canada<ATHLET>;Sean Fleming<RUNNING>,Tom Wilkinson<BOTH>,Larry Highbaugh<HIGHJUMP>,Ricky Ray<RUNNING>
+Cape Verde<ATHLET>;Vozinha<RUNNING>,MAirio Avora<BOTH>,Elber Evora<HIGHJUMP>,Stopira<RUNNING>
+Cayman Islands<ATHLET>;Albertini Holness<RUNNING>,Shakur Welcome<BOTH>,Karl Solomon<HIGHJUMP>,Benjamin Cupid<RUNNING>
+Central African Republic<ATHLET>;Geoffrey Lembet<RUNNING>,Thibaut Ban<BOTH>,Lionel Zouma<HIGHJUMP>,Amos Youga<RUNNING>
+Chile<ATHLET>;Gabriel Arias<RUNNING>,Brayan Cortas<BOTH>,Omar Carabala<HIGHJUMP>,Mauricio Isla<RUNNING>
+China<ATHLET>;Zeng Cheng<RUNNING>,Yan Junling<BOTH>,Dong Chunyu<RUNNING>,Liu Dianzuo<HIGHJUMP>
+Chinese Taipei<ATHLET>;Pan Wen-chieh<RUNNING>,Chiu Yu-hung<BOTH>,Shih Shin-an<HIGHJUMP>,Wang Ruei<RUNNING>
+Colombia<ATHLET>;Camilo Vargas<RUNNING>,Ã�lvaro Montero<BOTH>,Eder Chaux<HIGHJUMP>,Aldair Quintana<RUNNING>
+Costa Rica<ATHLET>;Leonel Moreira<RUNNING>,Minor Ã�lvarez<BOTH>,Ascar Duarte<HIGHJUMP>,Ian Smith<RUNNING>
+Croatia<ATHLET>;Ivo Grbiai<RUNNING>,Dominik LivakoviA<BOTH>,Simon Sluga<HIGHJUMP>
+Cuba<ATHLET>;Sandy Sanchez<RUNNING>,Karel Espino<BOTH>,Yosel Piedra<HIGHJUMP>
+Cyprus<ATHLET>;Anastasios Kissas<RUNNING>,Neofytos Michael<BOTH>,Nicholas Ioannou<HIGHJUMP>
+Czech Republic<ATHLET>;Petr azech<RUNNING>,Karel Poborska<BOTH>,TomÃ¡Å¡ RosickÃ½<HIGHJUMP>
+Denmark<JUDGE>;Dino<RUNNING>,Chino<HIGHJUMP>,Zino<BOTH>
+Denmark<ATHLET>;Oliver Christensen<RUNNING>,Peter Vindahl Jensen<BOTH>,Daniel Anyembe<HIGHJUMP>;Kristoffer Hari<RUNNING>,Andreas Bube<BOTH>
+Djibouti<ATHLET>;Mohamed Abar<RUNNING>,Idriss Abdillahi<BOTH>,Darar Aboubaker<HIGHJUMP>
+Dominica<ATHLET>;Glenson Prince<RUNNING>,Owine Oscar<BOTH>,Donte Newton<HIGHJUMP>
+Dominican Republic<ATHLET>;Miguel Lloyd<RUNNING>,Odalis Baez<BOTH>,Casar Garca­a<HIGHJUMP>
+Ecuador<ATHLET>;Pedro Orta­z<RUNNING>,Robert Arboleda<BOTH>,Mario Pineida<HIGHJUMP>
+Egypt<ATHLET>;Mohamed Awad<RUNNING>,Abdallah Gomaa<BOTH>,Mohamed Hany<HIGHJUMP>
+El Salvador<ATHLET>;Ascar Pleitez<RUNNING>,Darwin Ceran<BOTH>,Denis Pineda<HIGHJUMP>
+Estonia<ATHLET>;Artur Kotenko<RUNNING>,Matvei Igonen<BOTH>,Artur Pikk<HIGHJUMP>
+Ethiopia<ATHLET>;Jemal Tassew<RUNNING>,Desta Tura<BOTH>,Ramadan Yusef<HIGHJUMP>
+Federated States of Micronesia<ATHLET>;Peter Paul<RUNNING>,Percy Rasung<BOTH>,Jerry Gorong<HIGHJUMP>
+Fiji<ATHLET>;Mesu Dolokoto<RUNNING>,Sam Matavesi<BOTH>,Tevita Ikanivere<HIGHJUMP>
+Finland<ATHLET>;Niki MÃ¤enpÃ¤Ã¤<RUNNING>,Jesse Joronen<BOTH>,Joona Toivio<HIGHJUMP>
+France<ATHLET>;Mike Maignan<RUNNING>,Benjamin Pavard<BOTH>,Presnel Kimpembe<HIGHJUMP>
+Gabon<ATHLET>;Stavy Nzamba<RUNNING>,Lloyd Palun<BOTH>,Lavy Madinda<HIGHJUMP>
+Georgia<ATHLET>;Giorgi Loria<RUNNING>,Guram Kashia<BOTH>,Lasha Dvali<HIGHJUMP>
+Germany<ATHLET>;Robin Koch<RUNNING>,Kevin Trapp<BOTH>,Bernd Leno<HIGHJUMP>
+Ghana<ATHLET>;Kasim Nuhu<RUNNING>,Joseph Aidoo<BOTH>,Thomas Partey<HIGHJUMP>
+Great Britain<ATHLET>;Lianne Shaw<RUNNING>,Jamie Kilby<BOTH>,Jon Maisey<HIGHJUMP>
+Greece<ATHLET>;Vasilis Barkas<RUNNING>,Giorgos Tzavellas<BOTH>,Zeca<HIGHJUMP>
+Grenada<ATHLET>;Jason Belfon<RUNNING>,Aaron Pierre<BOTH>,Irvine Smith<HIGHJUMP>
+Guatemala<ATHLET>;Carlos Gallardo<RUNNING>,Wilson Pineda<BOTH>,Rodrigo Saravia<HIGHJUMP>
+Haiti<ATHLET>;Carlens Arcus<RUNNING>,Ricardo Ade<BOTH>,Jems Geffrard<HIGHJUMP>
+Honduras<ATHLET>;Luis Lopez<RUNNING>,Alex Guity<BOTH>,Elvin Oliva<HIGHJUMP>
+Hong kong<ATHLET>;Li Ngai Hoi<RUNNING>,Roberto<BOTH>,Tong Kin Man<HIGHJUMP>
+Hungary<ATHLET>;Endre Bottke<HIGHJUMP>,Willi Orban<BOTH>,Adam Nagay<RUNNING>
+Iceland<ATHLET>;Jon Dagur<RUNNING>,Mikael Anderson<BOTH>,Victor Palsson<HIGHJUMP>
+India<ATHLET>;Rahul Bheke<RUNNING>,Sarthak Golui<BOTH>,Adil Khan<HIGHJUMP>
+Indonesia<ATHLET>;Nadeo Argawinata<RUNNING>,Arif Satria<BOTH>,Fachrudin Aryanto<HIGHJUMP>
+Iran<ATHLET>;Aref Gholami<RUNNING>,Ali Karimi<BOTH>,Vahid Amiri<HIGHJUMP>
+Iraq<ATHLET>;Ali Faez<RUNNING>,Fahad Talib<BOTH>,Ahmed Basil<HIGHJUMP>
+Ireland<ATHLET>;Dave Heffernan<HIGHJUMP>,Rob Herring<RUNNING>,Ed Byrne<BOTH>
+Israel<JUDGE>;Yarden<RUNNING>,Dana<HIGHJUMP>,Tom<BOTH>
+Israel<ATHLET>;Lior<RUNNING>,Diana Vaisman<BOTH>,Amit Cohen<HIGHJUMP>,Maor Seged<RUNNING>,Yair Karni<BOTH>,Amit Cohen<HIGHJUMP>
+Italy<ATHLET>;Marco Silvestri<RUNNING>,Emerson Palmieri<HIGHJUMP>, Leonardo Bonucci<BOTH>
+Jamaica<ATHLET>;Shawn Lawes<RUNNING>,Ricardo Thomas<HIGHJUMP>,Lamar Issac<BOTH>
+Japan<ATHLET>;Daniel Schmidt<RUNNING>,Koki Anzani<HIGHJUMP>,Maya Yoshida<BOTH>
+Jordan<ATHLET>;Tarreq Khattab<RUNNING>,Saeed Murjan<HIGHJUMP>,Saleh Rateb<BOTH>
+Kazakhstan<ATHLET>;Serhyi Malyi<RUNNING>,Marat Bystrov<HIGHJUMP>,Olzhas<BOTH>
+Kenya<ATHLET>;Julius Yeger<BOTH>,Tegla Rogfold<HIGHJUMP>,Ian Otieno<RUNNING>
+Korea<ATHLET>;Jo Hyeon-woo<BOTH>,Lee Chang-keun<HIGHJUMP>,Gu Sung-yun<RUNNING>
+Kosovo<ATHLET>;Fidan Aliti<BOTH>,Leart Paqarada<HIGHJUMP>,Florent Hadergjonaj<RUNNING>
+Kuwait<ATHLET>;Hameed Al-Qallaf<BOTH>,Sami Al-Sanea<HIGHJUMP>,Dhari Said<RUNNING>
+Latvia<ATHLET>;Vladislavs<BOTH>,Elvis Stuglis<HIGHJUMP>,Roberts Ozols<RUNNING>
+Lebanon<ATHLET>;Roda Antar<BOTH>,Ali Hamam<HIGHJUMP>,Hassan Maatouk<RUNNING>
+Lesotho<ATHLET>;Lichaba Thabiso<BOTH>,Basia Makepe<HIGHJUMP>,Nkau Lerotholi<RUNNING>,Rethabile Rasethuntsa<RUNNING>
+Liechtenstein<ATHLET>;Thomas Hobi<BOTH>,Benjamin Büchel<BOTH>,Justin Ospelt<HIGHJUMP>,Lorenzo Lo Russo<RUNNING>
+Luxembourg<ATHLET>;Anthony Moris<BOTH>,Ralph Schon<HIGHJUMP>,Tim Kips<RUNNING>,Laurent Jans<BOTH>
+Macau<ATHLET>;Fong Chi Hang<BOTH>,Lei Ka Him<HIGHJUMP>,Kam Chi Hou<BOTH>,Lei Chi Kin<RUNNING>
+Madagascar<ATHLET>;Paulin Voavy<BOTH>,Jimmy Radafison<HIGHJUMP>,Tobisoa Njakanirina<RUNNING>
+Malawi<ATHLET>;William Thole<BOTH>,Stanley Sanudi<HIGHJUMP>,Peter Cholopi<RUNNING>
+Malaysia<ATHLET>;Azam Azih<BOTH>,Shahrul Saad<BOTH>,Farizal Marlias<HIGHJUMP>,Syahmi Safari<RUNNING>
+Maldives<ATHLET>;Mohamed Faisal<BOTH>,Mohamed Saaif<HIGHJUMP>,Haisham Hassan<RUNNING>
+Mali<ATHLET>;Djigui Diarra<BOTH>,Molla Wagué<HIGHJUMP>,Hamari Traoré<RUNNING>
+Malta<ATHLET>;Henry Bonello<BOTH>,Jake Galea<HIGHJUMP>,Steve Borg<RUNNING>
+Mexico<ATHLET>;Alfredo Talavera<BOTH>,Rodolfo Cota<HIGHJUMP>,Gilberto Sepúlveda<RUNNING>
+Moldova<ATHLET>;Stanislav Namașco<BOTH>,Alexei Koșelev<HIGHJUMP>,Igor Armaș<RUNNING>
+Montenegro<ATHLET>;Milan Mijatović<BOTH>,Miloš Dragojević<HIGHJUMP>,Marko Simić<RUNNING>
+Morocco<ATHLET>;Anas Zniti<BOTH>,Achraf Hakimi<HIGHJUMP>,Hamza Mendyl<RUNNING>
+Myanmar<ATHLET>;Kyaw Zin Phyo<BOTH>,Nyein Chan<HIGHJUMP>,David Htan<RUNNING>

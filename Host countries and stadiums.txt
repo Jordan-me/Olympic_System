@@ -1,0 +1,13 @@
+Australia<Sydney>;National Stadium<15000>,Showground<90000>,Wentworth Park<10000>,The Dome<10000>,ES Marks Field<1000>,Drummoyne Oval<6000>
+Brazil<Rio de Janeiro>;Estádio Olímpico Nilton Santos<46931>,Sambódromo Marquês de Sapucaí<90000>;Barra Olympic cluster<56000>
+Canada<Montreal>;Olympic Stadium<78322>,Molson Stadium<23420>,Centre Bell<22114>,PEPS Stadium<56040>,Stade Claude Robillard<9500>,Concordia Stadium<4000>,UdeM Stadium<67632>,Arena Maurice Richard<4750>
+China<Beijing>;Beijing National Stadium<91000>,Workers Stadium<65094>,Olympic Sports Centre<36228>,Liuzhou Sports Center<35000>,Shunyi Olympic Park<25800>,Xiannongtan Stadium<30000>,Shijingshan Stadium<87500>,Shoushida Stadium<10000>
+France<Paris>;Stade de France<80698>,Le Bourget<52935>,Stade Yves-du-Manoir<14000>,U Arena<40000>
+Germany<Munich>;Allianz Arena<75024>,Olympiastadion<70000>
+Greece<Athens>;Olympic Stadium<72000>,Pankritio Stadium (Heraklion)<26240>,Pampeloponnisiako Stadium (Patras)<23588>,Karaiskakis Stadium (Athens)<32115>,Panathenaic Stadium<45000>,Stadium at Olympia<80000>
+Japan<Tokyo>;Japan National Stadium<80016>,Odaiba Marine Park<15000>,Ajinomoto Stadium<49970>
+Soviet Union<Moscow>;Olimpiyskiy<35000>;Luzhniki Stadium<81000>
+South Korea<Seoul>;Seoul Olympic Stadium<69950>,Busan Stadium<24000>
+Spain<Barcelona>;Estadi Olímpic Lluís Companys<60713>,Camp Nou<99354>
+United Kingdom<London>;Olympic Stadium<80000>,Wembley Stadium<90000>
+United States<Los Angeles>;Los Angeles Memorial Coliseum<77500>,The Forum<17500>,StubHub Center <27000> 	 	  	 
